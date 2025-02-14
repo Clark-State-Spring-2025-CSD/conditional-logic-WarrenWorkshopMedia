@@ -50,3 +50,5 @@ elif MonthNumber in [9, 10, 11]:
         month = "November"
 
 print(f"The month is {month} and the current season is {season}.")
+
+
